@@ -1,1 +1,1 @@
- # the webpage for [buildbridg.es](https;//buildbridg.es)
+ # the webpage for [buildbridg.es](https://buildbridg.es)
